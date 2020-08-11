@@ -24,7 +24,6 @@ SwiftUI &amp; Simple UI Testing tutorial
 ![](screenshots/5.png) 
 ![](screenshots/6.png) 
 ![](screenshots/7.png) 
-![](screenshots/8.png) 
 
  
 
